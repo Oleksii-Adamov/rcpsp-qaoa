@@ -36,4 +36,4 @@
 | 3                   | 5 | 3                   | 1          | 100   | 12          | 6                     | 6,8             | 2,03                          |
 | 3                   | 5 | 3                   | 2          | 100   | 12          | 6                     | 34,4            | 39,9                          |
 | 4                   | 4 | 2                   | 1          | 2500  | 16          | 5                     | 16,4            | 7,9                           |
-## Soved RCPSP with number of activities = 3, T = 4, |R| = 3 on IONQ "Aria 1" with avarage of 1.5 iterations across 2 tries.
+## Solved RCPSP with number of activities = 3, T = 4, |R| = 3 on IONQ "Aria 1" with an average of 1.5 iterations across 2 tries.
