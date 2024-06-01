@@ -36,4 +36,6 @@
 | 3                   | 5 | 3                   | 1          | 100   | 12          | 6                     | 6,8             | 2,03                          |
 | 3                   | 5 | 3                   | 2          | 100   | 12          | 6                     | 34,4            | 39,9                          |
 | 4                   | 4 | 2                   | 1          | 2500  | 16          | 5                     | 16,4            | 7,9                           |
-## Solved RCPSP with number of activities = 3, T = 4, |R| = 3 on IONQ "Aria 1" with an average of 1.5 iterations across 2 tries.
+## Results on IONQ "Aria 1" (good starting point was choosed from simulation): 
+### number of activities = 3, T = 4, |R| = 3 found optimal solution with an average of 1.5 iterations across 2 tries (1 and 2 iterations).
+### number of activities = 3, T = 5, |R| = 3 found optimal solution with an average of 11 iterations across 2 tries (2 and 20 iterations).
